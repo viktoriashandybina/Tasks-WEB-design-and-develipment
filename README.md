@@ -20,7 +20,7 @@
 [7]: https://kodaktor.ru/?!=2c4cefb_fe608 "Строки и массивы"
 [8]: https://kodaktor.ru/?!=bb6b8c4_0b9df "Коллбэки"
 [9]: https://kodaktor.ru/?!=rates_29c25 "Введение в DOM"
-[10]: https://vk.com/feed "вк))0)"
+[10]: https://vk.com/feed
 
 *****
 
