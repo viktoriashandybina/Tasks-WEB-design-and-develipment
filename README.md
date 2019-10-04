@@ -73,32 +73,32 @@
 
 # Задания по требованиям
 
-[][1] <br>
-[][2] <br>
-[][3] <br>
-[][4] <br>
-[][5] <br>
-[][6] <br>
-[][7] <br>
-[][8] <br>
-[][9] <br>
-[][10] <br>
+[FUNC-001][1] <br>
+[FUNC-002][2] <br>
+[FUNC-003][3] <br>
+[FUNC-004][4] <br>
+[FUNC-005][5] <br>
+[FUNC-006][6] <br>
+[FUNC-007][7] <br>
+[FUNC-008][8] <br>
+[FUNC-009][9] <br>
+[FUNC-010][10] <br>
 [][11] <br>
 [][12] <br>
 [][13] <br>
 [][14] <br>
 [][15] <br>
 
-[1]:  ""
-[2]:  ""
-[3]:  ""
-[4]:  ""
-[5]:  ""
-[6]:  ""
-[7]:  ""
-[8]:  ""
-[9]:  ""
-[10]:  ""
+[1]: https://kodaktor.ru/?!=193423d "FUNC-001"
+[2]: https://kodaktor.ru/func_b41e7 "FUNC-002"
+[3]: https://kodaktor.ru/func_14a94 "FUNC-003"
+[4]: https://kodaktor.ru/?!=193423d_7ce02 "FUNC-004"
+[5]: https://kodaktor.ru/?!=193423d_651ed "FUNC-005"
+[6]: https://kodaktor.ru/?!=193423d_bbb22 "FUNC-006"
+[7]: https://kodaktor.ru/?!=193423d_42ed7 "FUNC-007"
+[8]: https://kodaktor.ru/?!=193423d_e45e2 "FUNC-008"
+[9]: https://kodaktor.ru/?!=193423d_fbb34 "FUNC-009"
+[10]: https://kodaktor.ru/func_010 "FUNC-010"
 [11]:  ""
 [12]:  ""
 [13]:  ""
