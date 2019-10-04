@@ -6,11 +6,9 @@
 [Введение в XSL (Задание 2.2)][5] <br>
 [Счетчик][6] <br>
 [Строки и массивы][7] <br>
-[][8] <br>
-[][9] <br>
-[][10] <br>
-[][11] <br>
-[][12] <br>
+[Коллбэки][8] <br>
+[Введение в DOM][9] <br>
+
 
 [1]: https://kodaktor.ru/unsafe_9f2f7        "Схемы XSD (XML)"
 [2]: https://kodaktor.ru/unsafe_82c16  "Схемы XSD (Схема)"
@@ -19,11 +17,9 @@
 [5]: https://kodaktor.ru/?!=task_func_b6e60 "Введение в XSL (Задание 2.2)"
 [6]: https://kodaktor.ru/?!=2c4cefb_efe33 "Счетчик"
 [7]: https://kodaktor.ru/?!=2c4cefb_fe608 "Строки и массивы"
-[8]:  ""
-[9]:  ""
-[10]:  ""
-[11]:  ""
-[12]:  ""
+[8]: https://kodaktor.ru/?!=bb6b8c4_0b9df "Коллбэки"
+[9]: https://kodaktor.ru/?!=rates_29c25 "Введение в DOM"
+
 
 *****
 
