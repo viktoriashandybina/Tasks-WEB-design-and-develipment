@@ -59,7 +59,7 @@
 [Два реактивных поля 04-04-2019][21] <br>
 
 
-[15]: https://kodaktor.ru/?!=9448b65 "Прототип UI для API nd.kodaktor.ru 02-02-2018 и 07-02-2019"
+[15]: https://kodaktor.ru/?!=b137b63 "Прототип UI для API nd.kodaktor.ru 02-02-2018 и 07-02-2019"
 [16]: https://kodaktor.ru/?!=9448b65_b18a8 "Интерфейсы HTML5 API 14-02-2019"
 [17]: https://kodaktor.ru/?!=9448b65_3eb74 "Мини-интернет магазин 21-02-2019"
 [18]: https://kodaktor.ru/?!=3f5d9bf_a1378 "Canvas 14-03-2019"
