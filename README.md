@@ -10,9 +10,9 @@
 [Введение в DOM][9] <br>
 
 
-[1]: https://kodaktor.ru/unsafe_9f2f7"Схемы XSD (XML)"
-[2]: https://kodaktor.ru/unsafe_82c16"Схемы XSD (Схема)"
-[3]: https://kodaktor.ru/?!=723b2c7"Введение в XSL (Задание 1)"
+[1]: https://kodaktor.ru/unsafe_9f2f7 "Схемы XSD (XML)"
+[2]: https://kodaktor.ru/unsafe_82c16 "Схемы XSD (Схема)"
+[3]: https://kodaktor.ru/?!=723b2c7 "Введение в XSL (Задание 1)"
 [4]: https://kodaktor.ru/?!=723b2c7_6492d "Введение в XSL (Задание 2.1)"
 [5]: https://kodaktor.ru/?!=task_func_b6e60 "Введение в XSL (Задание 2.2)"
 [6]: https://kodaktor.ru/?!=2c4cefb_efe33 "Счетчик"
