@@ -1,8 +1,6 @@
 # Шандыбина Виктория
 # Портфолио
 
-
-
 ## Задания по веб-проектированию    
 
 [Схемы XSD (XML)][1] <br>
@@ -95,6 +93,8 @@
 [Лабораторная работа 2)][39] <br>
 [Лабораторная работа 3)][40] <br>
 [Лабораторная работа 4][41] <br>
+
+
 [36]: https://drive.google.com/open?id=1BGuJhPfIjHT6ct7Q4bQvB6FJLOtf_Oj9 "Задание 1. Юникод"
 [37]: https://drive.google.com/open?id=11AuzvIRVaSzbqlnGxvXZZOTWfZBd0Vtr "Задание 2. Анализ ЭОР"
 [38]: https://drive.google.com/open?id=17CUtqKHRSm-q3wEjYwkUDqd7CRGcIBAp "Лабораторная работа 1"
