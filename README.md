@@ -1,20 +1,7 @@
 # Шандыбина Виктория
 # Портфолио
 
-## Задания по информационным технологиям в изучении иностранных языков
 
-[Задание №1. Юникод][1] <br>
-[Задание №2. Анализ ЭОР][2] <br>
-[Лабораторная работа №1][3] <br>
-[Лабораторная работа №2)][4] <br>
-[Лабораторная работа №3)][5] <br>
-[Лабораторная работа №4][6] <br>
-[1]: https://drive.google.com/open?id=1BGuJhPfIjHT6ct7Q4bQvB6FJLOtf_Oj9 "Задание №1. Юникод"
-[2]: https://drive.google.com/open?id=11AuzvIRVaSzbqlnGxvXZZOTWfZBd0Vtr "Задание №2. Анализ ЭОР"
-[3]: https://drive.google.com/open?id=17CUtqKHRSm-q3wEjYwkUDqd7CRGcIBAp "Лабораторная работа №1"
-[4]: https://drive.google.com/open?id=1I7WCrj7Tf9XplpGpEAbtCgZQVHXaGIwC "Лабораторная работа №2"
-[5]: https://kodaktor.ru/?!=45a0f91 "Лабораторная №3"
-[6]: https://drive.google.com/open?id=1eFOO_S9IE6V6g7ZXqvXqf78qDCBB2QiK "Лабораторная работа №4"
 
 ## Задания по веб-проектированию    
 
@@ -97,5 +84,23 @@
 [33]: https://kodaktor.ru/?!=9448b65_04ed1 "EVNT_002"
 [34]: https://kodaktor.ru/?!=193423d_47ef0 "BABL_002"
 [35]: https://kodaktor.ru/?!=9448b65_3eb74 "CART"
+
+*****
+
+## Задания по информационным технологиям в изучении иностранных языков
+
+[Задание №1. Юникод][36] <br>
+[Задание №2. Анализ ЭОР][37] <br>
+[Лабораторная работа №1][38] <br>
+[Лабораторная работа №2)][39] <br>
+[Лабораторная работа №3)][40] <br>
+[Лабораторная работа №4][41] <br>
+[36]: https://drive.google.com/open?id=1BGuJhPfIjHT6ct7Q4bQvB6FJLOtf_Oj9 "Задание №1. Юникод"
+[37]: https://drive.google.com/open?id=11AuzvIRVaSzbqlnGxvXZZOTWfZBd0Vtr "Задание №2. Анализ ЭОР"
+[38]: https://drive.google.com/open?id=17CUtqKHRSm-q3wEjYwkUDqd7CRGcIBAp "Лабораторная работа №1"
+[39]: https://drive.google.com/open?id=1I7WCrj7Tf9XplpGpEAbtCgZQVHXaGIwC "Лабораторная работа №2"
+[40]: https://kodaktor.ru/?!=45a0f91 "Лабораторная №3"
+[41]: https://drive.google.com/open?id=1eFOO_S9IE6V6g7ZXqvXqf78qDCBB2QiK "Лабораторная работа №4"
+
 
 *****
