@@ -1,5 +1,20 @@
 # Шандыбина Виктория
-# Портфолио к экзамену по модулю “Проектирование и разработка веб-решений”
+# Портфолио
+
+## Задания по информационным технологиям в изучении иностранных языков
+
+[Задание №1. Юникод][1] <br>
+[Задание №2. Анализ ЭОР][2] <br>
+[Лабораторная работа №1][3] <br>
+[Лабораторная работа №2)][4] <br>
+[Лабораторная работа №3)][5] <br>
+[Лабораторная работа №4][6] <br>
+[1]: https://drive.google.com/open?id=1BGuJhPfIjHT6ct7Q4bQvB6FJLOtf_Oj9 "Задание №1. Юникод"
+[2]: https://drive.google.com/open?id=11AuzvIRVaSzbqlnGxvXZZOTWfZBd0Vtr "Задание №2. Анализ ЭОР"
+[3]: https://drive.google.com/open?id=17CUtqKHRSm-q3wEjYwkUDqd7CRGcIBAp "Лабораторная работа №1"
+[4]: https://drive.google.com/open?id=1I7WCrj7Tf9XplpGpEAbtCgZQVHXaGIwC "Лабораторная работа №2"
+[5]: https://kodaktor.ru/?!=45a0f91 "Лабораторная №3"
+[6]: https://drive.google.com/open?id=1eFOO_S9IE6V6g7ZXqvXqf78qDCBB2QiK "Лабораторная работа №4"
 
 ## Задания по веб-проектированию    
 
